@@ -1,2 +1,1 @@
-movies filter=lfs diff=lfs merge=lfs -text
 movies/ratings.csv filter=lfs diff=lfs merge=lfs -text
